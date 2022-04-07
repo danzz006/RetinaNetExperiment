@@ -1,5 +1,5 @@
 # RetinaNetExperiment
-original authors are:
+Original authors for the used notbooks are:
 RetinaNet: Srihari Humbarwadi
 Supervised contrastive learning: Khalid Salama
 
